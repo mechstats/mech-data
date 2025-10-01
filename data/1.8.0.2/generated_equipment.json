@@ -1,0 +1,152 @@
+{
+    "type": "EQUIPMENT",
+    "entityMap": {
+        "1305001": {
+            "id": 1305001,
+            "type": "BuffEquipmentData",
+            "name": "Charged Ammo",
+            "description": "Units equipped with this item produce electromagnetic interference with their attacks, temporarily disabling the Tech of enemy units and decreasing their movement speed by {0}%",
+            "descParams": "40;"
+        },
+        "1305002": {
+            "id": 1305002,
+            "type": "BuffEquipmentData",
+            "name": "Parasitic Ammo",
+            "description": "When a unit equipped with this item destroys an enemy unit, a Crawler of Our Forces will be created from their wreckage",
+            "descParams": null
+        },
+        "1305003": {
+            "id": 1305003,
+            "type": "BuffEquipmentData",
+            "name": "Photon Coating",
+            "description": "The unit equipped with this item takes {1}% less damage within {0}s after starting the battle, and is immune to Electromagnetic, Ignited, Acid, and Degeneration Beam effects",
+            "descParams": "25;30"
+        },
+        "1306001": {
+            "id": 1306001,
+            "type": "SupportUnitEquipmentData",
+            "name": "Tank Production Line",
+            "description": "[Giant Units Only] Produces {1} Sledgehammer tanks every {0}s",
+            "descParams": "13;2"
+        },
+        "1306002": {
+            "id": 1306002,
+            "type": "SupportUnitEquipmentData",
+            "name": "Mustang Production Line",
+            "description": "[Giant Units Only] Produces {1} Mustangs every {0}s",
+            "descParams": "11;4"
+        },
+        "1306003": {
+            "id": 1306003,
+            "type": "SupportUnitEquipmentData",
+            "name": "Steel Ball Production Line",
+            "description": "[Giant Units Only] Produces {1} Steel Balls every {0}s",
+            "descParams": "16;2"
+        },
+        "1307001": {
+            "id": 1307001,
+            "type": "AdvancedEnergyShieldEquipmentData",
+            "name": "Barrier",
+            "description": "[Ground Giant Units Only] Generates a Barrier with {0} HP to protect nearby units",
+            "descParams": "60000;"
+        },
+        "1308001": {
+            "id": 1308001,
+            "type": "IgnoreBuffEquipmentData",
+            "name": "Anti-Interference Module",
+            "description": "Units equipped with this item are immune to electromagnetic interference and Hacker's control, and immune to the paralysis effect of the core building explosion",
+            "descParams": null
+        },
+        "1309001": {
+            "id": 1309001,
+            "type": "LifestealEquipmentData",
+            "name": "Absorption Module",
+            "description": "Increases the equipped unit's HP by {0}%, and converts {1}% of the damage dealt to HP.",
+            "descParams": "30;90;"
+        },
+        "13010001": {
+            "id": 13010001,
+            "type": "EnergyShieldEquipmentData",
+            "name": "Portable Shield",
+            "description": "Units equipped with this item obtain an Energy Shield that absorbs damage equal to the unit's HP and can block at least one instance of damage.",
+            "descParams": null
+        },
+        "13020001": {
+            "id": 13020001,
+            "type": "AutoRecoveryEquipmentData",
+            "name": "Nano Repair Kit",
+            "description": "Repairs damage continuously with nanobots. Units equipped with this item recover {0}% of Max HP per second",
+            "descParams": "4.5;"
+        },
+        "13030001": {
+            "id": 13030001,
+            "type": "EquipmentData",
+            "name": "Laser Sights",
+            "description": "The range of units equipped with this item is increased by {0}m",
+            "descParams": "20;"
+        },
+        "13030002": {
+            "id": 13030002,
+            "type": "EquipmentData",
+            "name": "Heavy Armor",
+            "description": "The HP of units equipped with this item is increased by {0}%",
+            "descParams": "75;"
+        },
+        "13030003": {
+            "id": 13030003,
+            "type": "EquipmentData",
+            "name": "Improved Firepower Control System",
+            "description": "The ATK of units equipped with this item is increased by {0}%",
+            "descParams": "65;"
+        },
+        "13030004": {
+            "id": 13030004,
+            "type": "EquipmentData",
+            "name": "Enhancement Module",
+            "description": "Increases ATK by {0}% and HP by {1}%, and upgrades no longer consume supplies",
+            "descParams": "25;25;"
+        },
+        "13030005": {
+            "id": 13030005,
+            "type": "EquipmentData",
+            "name": "Haste Module",
+            "description": "The movement speed of units equipped with this item is increased by {0} while ATK is increased by {1}%",
+            "descParams": "5;35;"
+        },
+        "13030006": {
+            "id": 13030006,
+            "type": "EquipmentData",
+            "name": "Super Heavy Armor",
+            "description": "The HP of units equipped with this item is increased by {0}%",
+            "descParams": "150;"
+        },
+        "13030007": {
+            "id": 13030007,
+            "type": "EquipmentData",
+            "name": "Amplifying Core",
+            "description": "The ATK of units equipped with this item is increased by {0}% while HP is increased by {1}%",
+            "descParams": "50;50;"
+        },
+        "13030008": {
+            "id": 13030008,
+            "type": "EquipmentData",
+            "name": "Advanced Firepower Control System",
+            "description": "The ATK of units equipped with this item is increased by {0}%",
+            "descParams": "200;"
+        },
+        "13030009": {
+            "id": 13030009,
+            "type": "EquipmentData",
+            "name": "Small Amplifying Core",
+            "description": "The ATK of units equipped with this item is increased by {0}% while HP is increased by {1}%",
+            "descParams": "22;22;"
+        },
+        "13040001": {
+            "id": 13040001,
+            "type": "MobilityIntensifyEquipmentData",
+            "name": "Deployment Module",
+            "description": "Units equipped with this item can move freely during the deployment phase of every round",
+            "descParams": null
+        }
+    }
+}
