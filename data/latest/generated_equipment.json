@@ -148,5 +148,8 @@
             "description": "Units equipped with this item can move freely during the deployment phase of every round",
             "descParams": null
         }
-    }
+    },
+    "gameBuild": 1834,
+    "gameVersion": "1.8.0.2",
+    "md5": "f0396cf8440635cfd8bbcc13904210b5"
 }

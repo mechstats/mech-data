@@ -6687,5 +6687,8 @@
                 }
             ]
         }
-    }
+    },
+    "gameBuild": 1834,
+    "gameVersion": "1.8.0.2",
+    "md5": "14928155a85a4b4bf076d0faccdb1509"
 }

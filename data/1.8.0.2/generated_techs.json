@@ -6947,5 +6947,8 @@
             "supply": 400,
             "activeLevel": 0
         }
-    }
+    },
+    "gameBuild": 1834,
+    "gameVersion": "1.8.0.2",
+    "md5": "7a8e07d1a18c4edaa063b880bf0a2c0a"
 }
